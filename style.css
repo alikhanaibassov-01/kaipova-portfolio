@@ -296,6 +296,7 @@ p { margin: 0 0 1.1em; }
 
 .cols-2 { display: grid; grid-template-columns: 1.1fr .9fr; gap: 56px; align-items: start; }
 .prose p { color: var(--body); max-width: 78ch; }
+.list-check.prose { max-width: 78ch; }
 
 h3.mini {
   font-size: 1.08rem;
